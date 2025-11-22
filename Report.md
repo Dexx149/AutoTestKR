@@ -133,7 +133,9 @@
 
 
 ### 6. Отчет Allure
+<img width="1906" height="807" alt="{2A6A40AF-0F2C-427C-B2CA-525A67A109D2}" src="https://github.com/user-attachments/assets/9a0a364f-d668-4c21-bf9c-bfb1070c7691" />
 
+<img width="1057" height="666" alt="{3C10F7A9-956A-48CF-9CA4-D0C0BC0197E9}" src="https://github.com/user-attachments/assets/282fe6c8-3c72-4fe4-99f3-32fcc41a8f83" />
 
 
 ### 7. Общие рекомендации
