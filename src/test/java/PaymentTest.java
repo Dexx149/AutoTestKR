@@ -22,7 +22,6 @@ public class PaymentTest {
     @BeforeEach
     void setUp() {
         mainPage = new MainPage();
-        mainPage.openPage();
 
         mainPage.selectPayment();
     }
